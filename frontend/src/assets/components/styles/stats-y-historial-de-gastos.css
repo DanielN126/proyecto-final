@@ -1,0 +1,818 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.stats-y-historial-de-gastos-q3g {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1rem 2rem 5rem rgba(137, 17, 156, 0.0799999982);
+  background-color: #d1d1e0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J {
+  margin-bottom: 6.1rem;
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fbfcfc;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .divider-gKC {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6e8eb;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn {
+  margin: 0 16rem;
+  width: calc(100% - 32rem);
+  height: 7.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr {
+  margin-right: 47.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .b3ea9cbd6ca10a3d7766e6d2bc4cadd4-1-iFt {
+  width: 7.6rem;
+  height: 7.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .auto-group-qsr8-SBt {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 1.8rem 3.2rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .auto-group-qsr8-SBt .divider-kiN {
+  width: 0.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #a8aaae;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .auto-group-qsr8-SBt .home-u5U {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .auto-group-qsr8-SBt .estadisticas-RpW {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .auto-group-qsr8-SBt .notificaciones-Zfp {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .left-content-kpr .auto-group-qsr8-SBt .ajustes-tTC {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .frame-1022-RT8 {
+  margin: 0.8rem 0;
+  width: 12rem;
+  height: calc(100% - 1.6rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .frame-1022-RT8 .frame-19-A9p {
+  box-sizing: border-box;
+  padding: 0.9rem 3.2rem 0.8rem 3.2rem;
+  width: 100%;
+  height: 100%;
+  background-color: #3c9cd5;
+  border-radius: 1.5rem;
+}
+.stats-y-historial-de-gastos-q3g .nav-x8J .nav-content-RGn .frame-1022-RT8 .frame-19-A9p .cerrar-sesion-JWv {
+  max-width: 5.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.stats-y-historial-de-gastos-q3g .estadisticas-CsC {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn {
+  width: 100%;
+  height: 78.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .balance-total-6Sn {
+  width: 11.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 32.6rem;
+  top: 60.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.01rem;
+  color: #130138;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .item-13248-nqQ {
+  width: 14.2rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 30rem;
+  top: 65rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #130138;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa {
+  width: 121.2rem;
+  height: 49.4217rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: flex-end;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 {
+  margin: 0rem 20.236rem 1.232rem 0rem;
+  width: 56.6645rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33511-Yxz {
+  margin: 0rem 0.673rem 7.422rem 43.694rem;
+  width: calc(100% - 44.3674rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33511-Yxz .agos-sep-5i2 {
+  margin: 0rem 3.673rem 0.817rem 0rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #60708f;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33511-Yxz .iconly-bold-arrow-left-2-z4J {
+  width: 1.9241rem;
+  height: 1.5927rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .auto-group-qfer-H3Q {
+  margin: 0rem 0rem 6.116rem 0.577rem;
+  width: 56.0873rem;
+  height: 21.2146rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .auto-group-qfer-H3Q .group-33515-oGe {
+  width: 56.0873rem;
+  height: 21.2146rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .auto-group-qfer-H3Q .item-2100-M3G {
+  width: 4.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 22.8229rem;
+  top: 0.941rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .group-33508-3Rt {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .group-33508-3Rt .oct-bTQ {
+  margin-right: 9.6948rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #8b98b1;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .group-33508-3Rt .nov-vVg {
+  margin-right: 11.0641rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #8b98b1;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .group-33508-3Rt .dec-Syp {
+  margin-right: 10.7468rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #60708f;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .group-33508-3Rt .jan-aq8 {
+  margin-right: 10.5381rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #8b98b1;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .group-33521-pn6 .group-33516-WoL .group-33508-3Rt .feb-Kni {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #8b98b1;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg {
+  margin: 0rem 0.8rem 4.217rem 0rem;
+  width: 43.5rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .auto-group-fm1k-YvN {
+  margin-bottom: 3.6831rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .auto-group-fm1k-YvN .ultimos-gastos-WMQ {
+  margin-right: 24.2rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.009rem;
+  color: #130138;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .auto-group-fm1k-YvN .septiembre-2Kk {
+  margin-top: 0.1674rem;
+  text-align: right;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C {
+  width: 31rem;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY .group-12-qnz {
+  margin-right: 1.5rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY .transactions-1-b1U {
+  width: 25.6rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY .transactions-1-b1U .auto-group-dco4-jtN {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY .transactions-1-b1U .auto-group-dco4-jtN .netflix-6U2 {
+  margin-right: 18rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY .transactions-1-b1U .auto-group-dco4-jtN .item-12-pup {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #363853;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-16-UhY .transactions-1-b1U .month-subscription-maA {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY .paypal-logo-etr {
+  margin-right: 1.5rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY .transactions-2-nkA {
+  width: 25.6rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY .transactions-2-nkA .auto-group-t6ne-M2a {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY .transactions-2-nkA .auto-group-t6ne-M2a .paypal-JCi {
+  margin-right: 17.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY .transactions-2-nkA .auto-group-t6ne-M2a .item-10-cjC {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-15-6MY .transactions-2-nkA .tax-Mwg {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi .group-13-TUv {
+  margin-right: 1.5rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi .transactions-3-br2 {
+  width: 25.6rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi .transactions-3-br2 .auto-group-pnfu-kyp {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi .transactions-3-br2 .auto-group-pnfu-kyp .paylater-iQr {
+  margin-right: 17.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi .transactions-3-br2 .auto-group-pnfu-kyp .item-2-f5C {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-pDg .frame-4-Y3C .group-14-tgi .transactions-3-br2 .buy-item-C58 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 {
+  margin-left: 0.8rem;
+  width: 43.5rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .auto-group-ic6v-G4z {
+  margin-bottom: 5.6217rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .auto-group-ic6v-G4z .ultimos-gastos-cPk {
+  margin-right: 26.7rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.009rem;
+  color: #130138;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .auto-group-ic6v-G4z .agosto-wB8 {
+  margin-bottom: 0.0899rem;
+  text-align: right;
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 {
+  width: 31rem;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ .group-12-mfx {
+  margin-right: 1.5rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ .transactions-1-KBg {
+  width: 25.6rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ .transactions-1-KBg .auto-group-esx4-5Rk {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ .transactions-1-KBg .auto-group-esx4-5Rk .netflix-qQv {
+  margin-right: 18rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ .transactions-1-KBg .auto-group-esx4-5Rk .item-12-yX8 {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #363853;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-16-QqQ .transactions-1-KBg .month-subscription-ufg {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx .paypal-logo-zx2 {
+  margin-right: 1.5rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx .transactions-2-9a2 {
+  width: 25.6rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx .transactions-2-9a2 .auto-group-9y4j-up6 {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx .transactions-2-9a2 .auto-group-9y4j-up6 .paypal-GPk {
+  margin-right: 17.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx .transactions-2-9a2 .auto-group-9y4j-up6 .item-10-1s8 {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-15-Ehx .transactions-2-9a2 .tax-AV8 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL .group-13-56J {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL .transactions-3-Cwc {
+  width: 25.6rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL .transactions-3-Cwc .auto-group-r2vg-AdY {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL .transactions-3-Cwc .auto-group-r2vg-AdY .paylater-KmL {
+  margin-right: 17.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL .transactions-3-Cwc .auto-group-r2vg-AdY .item-2-GRg {
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #000000;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .auto-group-tjue-hSa .auto-group-ts4e-rne .last-transaction-section-vG2 .frame-4-fN2 .group-14-JbL .transactions-3-Cwc .buy-item-1u4 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  line-height: 1.25;
+  letter-spacing: 0.0065rem;
+  color: #2f1155;
+  font-family: Quicksand, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .sub-nav-wGv {
+  width: 32.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 20.1rem;
+  top: 55rem;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .sub-nav-wGv .sub-nav-item-TWA {
+  box-sizing: border-box;
+  padding: 0.6rem 1.2rem;
+  width: 12.8rem;
+  height: 100%;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .sub-nav-wGv .sub-nav-item-TWA .sub-nav-item-QRQ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1428571429;
+  color: #2f1155;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #3c9cd5;
+  border-radius: 10rem;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .sub-nav-wGv .sub-nav-item-6p2 {
+  margin: 0.6rem 0;
+  width: 8.1rem;
+  height: calc(100% - 1.2rem);
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1428571429;
+  color: #2f1155;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #3c9cd5;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .sub-nav-wGv .sub-nav-item-ycv {
+  box-sizing: border-box;
+  padding: 0.6rem 1.2rem;
+  width: 8.8rem;
+  height: 100%;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.stats-y-historial-de-gastos-q3g .auto-group-qut4-wpn .sub-nav-wGv .sub-nav-item-ycv .sub-nav-item-j6J {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.1428571429;
+  color: #2f1155;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: #3c9cd5;
+  border-radius: 10rem;
+}
