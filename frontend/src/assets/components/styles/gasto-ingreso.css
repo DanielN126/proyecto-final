@@ -1,0 +1,390 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.gasto-ingreso-gVG {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #d1d1e0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN {
+  width: 145.3rem;
+  height: 11.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-AvE {
+  width: 144rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #fbfcfc;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-AvE .divider-v8i {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6e8eb;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-s3x {
+  width: 144rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #fbfcfc;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-s3x .divider-1vr {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6e8eb;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 144rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fbfcfc;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .divider-i4a {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6e8eb;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ {
+  margin: 0 16rem;
+  width: calc(100% - 32rem);
+  height: 7.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW {
+  margin-right: 47.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .b3ea9cbd6ca10a3d7766e6d2bc4cadd4-1-dKx {
+  width: 7.6rem;
+  height: 7.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .auto-group-8dmk-kfU {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 1.8rem 3.2rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .auto-group-8dmk-kfU .divider-Gti {
+  width: 0.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #a8aaae;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .auto-group-8dmk-kfU .home-chg {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .auto-group-8dmk-kfU .estadisticas-Xpe {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .auto-group-8dmk-kfU .notificaciones-55U {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .left-content-PgW .auto-group-8dmk-kfU .ajustes-QdY {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .frame-1022-Yjk {
+  margin: 0.8rem 0;
+  width: 12rem;
+  height: calc(100% - 1.6rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .frame-1022-Yjk .frame-19-toc {
+  box-sizing: border-box;
+  padding: 0.9rem 3.2rem 0.8rem 3.2rem;
+  width: 100%;
+  height: 100%;
+  background-color: #3c9cd5;
+  border-radius: 1.5rem;
+}
+.gasto-ingreso-gVG .auto-group-eqe6-prN .nav-NmQ .nav-content-FaJ .frame-1022-Yjk .frame-19-toc .cerrar-sesion-2ev {
+  max-width: 5.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL {
+  box-sizing: border-box;
+  padding: 8.2rem 17.7rem 0rem 15.6rem;
+  width: 144.3rem;
+  height: 124.4rem;
+  background-color: #d1d1e0;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #d1d1e0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .ingreso-o-gasto-1Fx {
+  width: 34.3rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.1666666667;
+  letter-spacing: -0.096rem;
+  color: #2f1155;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .divider-WTc {
+  width: 111rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  overflow: hidden;
+  background-color: #e6e8eb;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi {
+  box-sizing: border-box;
+  padding-top: 6.4rem;
+  width: 111rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 0;
+  top: 12.1rem;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ {
+  width: 100%;
+  height: 100%;
+  row-gap: 3.2rem;
+  display: flex;
+  flex-direction: column;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .cantidad-H6z {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #2f1155;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .single-input-field-bNa {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem;
+  width: 100%;
+  height: 4.8rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.2rem #130138;
+  background-color: rgba(19, 1, 56, 0.5);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .single-input-field-bNa .frame-827-8NW {
+  box-sizing: border-box;
+  padding-right: 0.6rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .single-input-field-bNa .frame-827-8NW .frame-826-sqt {
+  margin-right: 90.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .single-input-field-bNa .frame-827-8NW .frame-826-sqt .item-9999999999990000-qGv {
+  margin-right: 1rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .single-input-field-bNa .frame-827-8NW .frame-826-sqt .cursor-ken {
+  width: 0.1rem;
+  height: 2.4rem;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-iZg .single-input-field-bNa .frame-827-8NW .icons-check-line-goL {
+  width: 1.2rem;
+  height: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-zJE {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-zJE .tipo-de-gasto-o-ingreso-kHQ {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #2f1155;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-zJE .single-input-field-GWe {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #130138;
+  background-color: rgba(19, 1, 56, 0.5);
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-jv2 {
+  width: 30.8rem;
+  flex-shrink: 0;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-jv2 .expiration-date-JTL {
+  margin-bottom: 1.2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: #2f1155;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-zrbp-epi .frame-832-PXQ .simple-input-jv2 .single-input-field-S3k {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.7142857143;
+  color: #eeeeee;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #130138;
+  background-color: rgba(19, 1, 56, 0.5);
+  border-radius: 1.2rem;
+}
+.gasto-ingreso-gVG .checkout-things-to-do-jZL .confirm-and-pay-3pv .auto-group-rdhc-iGA {
+  width: 111rem;
+  height: 69.7rem;
+  position: absolute;
+  left: 0;
+  top: 46.5rem;
+}

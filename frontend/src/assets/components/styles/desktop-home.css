@@ -1,0 +1,327 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-home-rPt {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d1d1e0;
+}
+.desktop-home-rPt .nav-m14 {
+  box-sizing: border-box;
+  padding-top: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fbfcfc;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN {
+  margin: 0rem 16rem 2rem 16rem;
+  width: calc(100% - 32rem);
+  height: 7.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .b3ea9cbd6ca10a3d7766e6d2bc4cadd4-1-Zhc {
+  width: 7.6rem;
+  height: 7.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .auto-group-urua-tE6 {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 1.8rem 3.2rem;
+  height: 100%;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .auto-group-urua-tE6 .divider-PwY {
+  width: 0.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #a8aaae;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .auto-group-urua-tE6 .home-EKt {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .auto-group-urua-tE6 .estadisticas-k3L {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .auto-group-urua-tE6 .notificaciones-5bQ {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .left-content-cGa .auto-group-urua-tE6 .ajustes-Cvv {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .auto-group-gnot-8pa {
+  box-sizing: border-box;
+  padding: 0.8rem 0rem 0.8rem 17.55rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .auto-group-gnot-8pa .frame-19-4iE {
+  margin-right: 17.55rem;
+  width: 12rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3c9cd5;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .auto-group-gnot-8pa .frame-1022-L9x {
+  width: 12rem;
+  height: 100%;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .nav-m14 .nav-content-trN .auto-group-gnot-8pa .frame-1022-L9x .frame-19-gjc {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3c9cd5;
+  border-radius: 1.5rem;
+}
+.desktop-home-rPt .nav-m14 .divider-PP8 {
+  width: 100%;
+  height: 0.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #e6e8eb;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG {
+  box-sizing: border-box;
+  padding: 5.9rem 0rem 17.8rem 16.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 54.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc {
+  margin: 8.3rem 2.9rem 19.9rem 0rem;
+  width: 59.2rem;
+  height: calc(100% - 28.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 19.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .bienvenido-a-el-buho-de-bolsillo-3c6 {
+  width: 57.5rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.16rem;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .dots-kFc {
+  width: 8rem;
+  height: 0.1667rem;
+  position: absolute;
+  left: 51.2rem;
+  top: 0.1531rem;
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .dots-kFc .dot-GUr {
+  width: 0.8rem;
+  height: 0.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .dots-kFc .dot-RMk {
+  width: 0.8rem;
+  height: 0.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .dots-kFc .dot-mgW {
+  width: 0.8rem;
+  height: 0.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .dots-kFc .dot-XQn {
+  width: 0.8rem;
+  height: 0.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .auto-group-frij-hHL .dots-kFc .dot-5BQ {
+  width: 0.8rem;
+  height: 0.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .auto-group-z4sk-aTc .con-nosotros-podras-llebar-un-control-mas-sencillo-de-tus-finanzas-desde-los-gastos-mas-pequeos-hasta-los-que-mas-duelen-ch8 {
+  margin-right: 0.4rem;
+  max-width: 52.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2f1155;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .auto-group-f8dq-SsC .b3ea9cbd6ca10a3d7766e6d2bc4cadd4-1-VF8 {
+  width: 66rem;
+  height: 54.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .button-Dwp {
+  margin: 0rem 56.6rem 0rem 35.4rem;
+  width: calc(100% - 92rem);
+  height: 9.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.4;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #131416;
+  border-radius: 9rem;
+  flex-shrink: 0;
+}
+.desktop-home-rPt .auto-group-myae-usG .button-Dwp .button-Dwp-sub-0 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 0.8;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.desktop-home-rPt .auto-group-myae-usG .button-Dwp .button-Dwp-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.4;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.desktop-home-rPt .auto-group-myae-usG .button-Dwp .button-Dwp-sub-2 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 0.8;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+}
